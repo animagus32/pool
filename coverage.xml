@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.6296296" branch-rate="0" version="" timestamp="1521732935279" lines-covered="17" lines-valid="27" branches-covered="0" branches-valid="0" complexity="0">
+	<sources>
+		<source>/usr/local/Cellar/go/1.9.2/libexec/src</source>
+		<source>/Users/animagus/workspace/lego2/lego/src</source>
+		<source>/Users/animagus/workspace/lego/src</source>
+		<source>/Users/animagus/workspace/test/src</source>
+		<source>/Users/animagus/workspace/imageExtractor/src</source>
+		<source>/Users/animagus/workspace/poc/src</source>
+		<source>/Users/animagus/workspace/ava/platform/src</source>
+		<source>/Users/animagus/workspace/api.qiniu.com/src</source>
+		<source>/Users/animagus/workspace/base/qiniu/src</source>
+		<source>/Users/animagus/workspace/base/docs/src</source>
+		<source>/Users/animagus/workspace/base/com/src</source>
+		<source>/Users/animagus/workspace/base/biz/src</source>
+		<source>/Users/animagus/workspace/base/portal/src</source>
+		<source>/Users/animagus/workspace/base/cgo/src</source>
+		<source>/Users/animagus/workspace/biz/src</source>
+		<source>/Users/animagus/workspace/biz/kodo-deprecated/src</source>
+		<source>/Users/animagus/workspace/cc/qiniu/src</source>
+		<source>/Users/animagus/workspace/cc/3rd/src</source>
+		<source>/Users/animagus/workspace/ffmpeg/src</source>
+		<source>/Users/animagus/workspace/service/service/src</source>
+		<source>/Users/animagus/workspace/devtools/src</source>
+		<source>/Users/animagus/workspace/devtools/3rd/src</source>
+		<source>/Users/animagus/workspace/base/com/src</source>
+		<source>/Users/animagus/workspace/base/qiniu/src</source>
+		<source>/Users/animagus/workspace/base/biz/src</source>
+		<source>/Users/animagus/workspace/base/cgo/src</source>
+		<source>/Users/animagus/workspace/fileop/fileop/src</source>
+		<source>/Users/animagus/workspace/dora-cloud/src</source>
+		<source>/Users/animagus/workspace/base/mockacc/src</source>
+	</sources>
+	<packages>
+		<package name="_/Users/animagus/workspace/pool" line-rate="0.6296296" branch-rate="0" complexity="0">
+			<classes>
+				<class name="-" filename="_/Users/animagus/workspace/pool/pool.go" line-rate="1" branch-rate="0" complexity="0">
+					<methods>
+						<method name="GetPool" signature="" line-rate="1" branch-rate="0" complexity="0">
+							<lines>
+								<line number="16" hits="1"></line>
+								<line number="17" hits="1"></line>
+								<line number="18" hits="1"></line>
+								<line number="19" hits="1"></line>
+								<line number="20" hits="1"></line>
+								<line number="21" hits="1"></line>
+								<line number="22" hits="1"></line>
+								<line number="23" hits="1"></line>
+								<line number="24" hits="1"></line>
+								<line number="25" hits="1"></line>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="16" hits="1"></line>
+						<line number="17" hits="1"></line>
+						<line number="18" hits="1"></line>
+						<line number="19" hits="1"></line>
+						<line number="20" hits="1"></line>
+						<line number="21" hits="1"></line>
+						<line number="22" hits="1"></line>
+						<line number="23" hits="1"></line>
+						<line number="24" hits="1"></line>
+						<line number="25" hits="1"></line>
+					</lines>
+				</class>
+				<class name="Pool" filename="_/Users/animagus/workspace/pool/pool.go" line-rate="0.4117647" branch-rate="0" complexity="0">
+					<methods>
+						<method name="Add" signature="" line-rate="0" branch-rate="0" complexity="0">
+							<lines>
+								<line number="27" hits="0"></line>
+								<line number="28" hits="0"></line>
+								<line number="29" hits="0"></line>
+							</lines>
+						</method>
+						<method name="Run" signature="" line-rate="0.6363636" branch-rate="0" complexity="0">
+							<lines>
+								<line number="32" hits="1"></line>
+								<line number="33" hits="1"></line>
+								<line number="34" hits="1"></line>
+								<line number="35" hits="1"></line>
+								<line number="36" hits="1"></line>
+								<line number="37" hits="1"></line>
+								<line number="38" hits="1"></line>
+								<line number="39" hits="0"></line>
+								<line number="40" hits="0"></line>
+								<line number="41" hits="0"></line>
+								<line number="42" hits="0"></line>
+							</lines>
+						</method>
+						<method name="Wait" signature="" line-rate="0" branch-rate="0" complexity="0">
+							<lines>
+								<line number="49" hits="0"></line>
+								<line number="50" hits="0"></line>
+								<line number="51" hits="0"></line>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="27" hits="0"></line>
+						<line number="28" hits="0"></line>
+						<line number="29" hits="0"></line>
+						<line number="32" hits="1"></line>
+						<line number="33" hits="1"></line>
+						<line number="34" hits="1"></line>
+						<line number="35" hits="1"></line>
+						<line number="36" hits="1"></line>
+						<line number="37" hits="1"></line>
+						<line number="38" hits="1"></line>
+						<line number="39" hits="0"></line>
+						<line number="40" hits="0"></line>
+						<line number="41" hits="0"></line>
+						<line number="42" hits="0"></line>
+						<line number="49" hits="0"></line>
+						<line number="50" hits="0"></line>
+						<line number="51" hits="0"></line>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
